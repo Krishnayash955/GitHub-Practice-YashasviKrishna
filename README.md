@@ -1,2 +1,2 @@
 # gitpractice
-This is the assignment practice
+This is the repository for git assignment
