@@ -1,2 +1,2 @@
-# gitExercise-devops
-Hi i am Krishna
+# gitpractice
+This is the assignment practice
